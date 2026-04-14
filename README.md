@@ -1,5 +1,6 @@
 Download the zip project.
-Run the following files in order - this is critical to anything working at all.
+Run the following files in order - this is critical to anything working at all. Tests are located within: src/test/java/com/baarsch_bytes/end2end
+
 
 1. StudentCrudTest.java
 2. CourseCrudTest.java
